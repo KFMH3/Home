@@ -1,0 +1,22 @@
+[1]レスポンシブデザインとは？メリット・デメリットや作り方など徹底解説！
+https://seolaboratory.jp/89410/
+
+[2]CSSでスマホ対応！レスポンシブサイトの作り方と初心者向けQ&A
+https://www.sejuku.net/blog/99964
+
+[3]Webページをマルチデバイスに対応させるには？ レスポンシブコーディングの仕組みを解説
+https://codezine.jp/article/detail/10928
+
+[4]【入門】レスポンシブWebデザインとは？概要と作り方を丁寧解説
+https://www.kagoya.jp/howto/it-glossary/web/responsive/
+
+[5]【コピペOK】HTML＆CSSサンプルコード16選！サイトの参考などに
+https://web-camp.io/magazine/archives/97816
+
+
+[6]レスポンシブデザイン
+https://developer.mozilla.org/ja/docs/Learn/CSS/CSS_layout/Responsive_Design
+
+[7]Webサイトのスマホ対応
+https://www.sunloft.co.jp/dx/blog/website-sp/
+
