@@ -20,3 +20,25 @@ https://developer.mozilla.org/ja/docs/Learn/CSS/CSS_layout/Responsive_Design
 [7]Webサイトのスマホ対応
 https://www.sunloft.co.jp/dx/blog/website-sp/
 
+[8]メディアクエリーの初心者向けガイド
+
+
+[9]How to embed mobile version of Google Calendar into mobile website
+
+
+[10]レスポンシブ対応するためのCSSの書き方
+https://www.site-convert.com/archives/1528
+
+[11]レスポンシブウェブデザインの基本
+https://web.dev/responsive-web-design-basics/
+
+[12]Learn Responsive Design
+https://web.dev/learn/design/
+
+[13]Learn Responsive Design
+https://web.dev/learn/html/
+
+[14]【HTML/CSS】要素を「横並び」にする方法（初心者向け）
+https://digitor.jp/textbook/html-elements-side/
+
+
