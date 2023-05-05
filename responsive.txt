@@ -41,4 +41,5 @@ https://web.dev/learn/html/
 [14]【HTML/CSS】要素を「横並び」にする方法（初心者向け）
 https://digitor.jp/textbook/html-elements-side/
 
-
+[15]HTMLどうやって横に並べるの？CSSで要素を横並びにする方法 5選
+https://hsmt-web.com/blog/css-side-by-side/
