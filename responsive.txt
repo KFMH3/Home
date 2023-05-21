@@ -43,3 +43,6 @@ https://digitor.jp/textbook/html-elements-side/
 
 [15]HTMLどうやって横に並べるの？CSSで要素を横並びにする方法 5選
 https://hsmt-web.com/blog/css-side-by-side/
+
+[16]Bootstrap4の導入方法を図解たっぷりで解説する
+https://skillhub.jp/courses/168/lessons/914
